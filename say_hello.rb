@@ -4,4 +4,4 @@ def say_hello(name="Donald Trump")
   puts "Hello Mr. #{name}."
 end
 
-say_hellor
+say_hello("Troy")
